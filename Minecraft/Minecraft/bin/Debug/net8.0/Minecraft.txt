@@ -1,0 +1,11 @@
+Diamant,13
+Kohle,4
+Rohgold,8
+Steinblock,6
+Lapislazuli,6
+Holzblock,7
+Obsidian,5
+Roheisen,6
+Erdblock,5
+Redstone,5
+Smaragd,1
